@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/python
 
 import socket
 from termcolor import colored
